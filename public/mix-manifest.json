@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/admin.js": "/js/admin.js",
+    "/js/auth.js": "/js/auth.js",
+    "/js/editor.js": "/js/editor.js",
+    "/css/admin.css": "/css/admin.css",
+    "/css/auth.css": "/css/auth.css",
+    "/css/app.css": "/css/app.css"
+}

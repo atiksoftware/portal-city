@@ -1,0 +1,296 @@
+[{
+	"_id": "5f5e101",
+	"name": "En üst Yatay TEK reklam",
+	"active": 1,
+	"size": "yatay",
+	"mothod": "image",
+	"area": "header",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2020/01/29/23648-29901c8943ddf27f184a7d3f7ad43a51.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1518732708,
+		"edit": 1518732708
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": "",
+	"youtube_id": "bFEcoudvXgc"
+},
+{
+	"_id": "5f5e102",
+	"name": "Sağ Stun 1. Reklam",
+	"active": 1,
+	"size": "kare",
+	"mothod": "image",
+	"area": "right_col_1",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2018/06/27/1c7e5-belediye reklam.jpg",
+			"//storage.boludabolu.com/2018/05/30/1c1bd-7751a352-f06c-4522-bdf4-6667ef213766.jpg",
+			"//storage.boludabolu.com/2018/05/16/1bef0-GÜNEŞ BOLU.jpg",
+			"//storage.boludabolu.com/2018/05/02/1bbc1-meslek kursu 2.jpg",
+			"//storage.boludabolu.com/2018/04/10/1b64b-belediye ilaç.jpg",
+			"//storage.boludabolu.com/2018/03/01/1a979-ağrı Merkezi-Dikey.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1518734204,
+		"edit": 1518734204
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": ""
+},
+{
+	"_id": "5f5e103",
+	"name": "Sağ Stun 2. Reklam",
+	"active": 1,
+	"size": "kare",
+	"mothod": "image",
+	"area": "right_col_2",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2018/06/27/1c7e6-belediye reklamn 2.jpg",
+			"//storage.boludabolu.com/2018/05/30/1c1be-d2533ec7-0190-4348-8259-0b71f3e9414e.jpg",
+			"//storage.boludabolu.com/2018/05/16/1bef1-BLD.jpg",
+			"//storage.boludabolu.com/2018/03/01/1a97b-egitim-destek-dikey.jpg",
+			"//storage.boludabolu.com/2018/04/10/1b64c-8c662a48-7d19-4d6f-9fa5-5d409820ec65.jpg",
+			"//storage.boludabolu.com/2018/05/02/1bbc2-ilaç toplama.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1518734934,
+		"edit": 1518734934
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": ""
+},
+{
+	"_id": "5f5e104",
+	"name": "Haber detay sayfası - Metin içi",
+	"active": 1,
+	"size": "kare",
+	"mothod": "image",
+	"area": "haber_detay_intext",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2022/04/15/291f6-a3820c06bcfd8f85221d18b1c25e70fd.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1528895388,
+		"edit": 1528895388
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": ""
+},
+{
+	"_id": "5f5e105",
+	"name": "Kule Reklam - SOL",
+	"active": 1,
+	"size": "dikey",
+	"mothod": "image",
+	"area": "kule_left",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2020/01/13/233d6-17ce8c677d1518e72773af64dd7bbd32.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1528896973,
+		"edit": 1528896973
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": ""
+},
+{
+	"_id": "5f5e106",
+	"name": "Kule Reklam - SAĞ",
+	"active": 1,
+	"size": "dikey",
+	"mothod": "image",
+	"area": "kule_right",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2021/02/23/26a84-cb37d3c7e4c4ec7427e6289907b23fe8.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1528896999,
+		"edit": 1528896999
+	},
+	"id_user": null,
+	"method": "image",
+	"html": "",
+	"slug": "http://www.gezer.com/"
+},
+{
+	"_id": "5f5e107",
+	"name": "En üst  Kayan İlanlar",
+	"active": 0,
+	"size": "slider",
+	"mothod": "image",
+	"area": "header",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2021/12/30/28749-4a6202f162655235c93560fcb558dbf2.jpg",
+			"//storage.boludabolu.com/2021/12/30/28748-c3ff68f2ec0f70a7bd9b8438e0891bcb.jpg",
+			"//storage.boludabolu.com/2021/12/30/28747-00397639ca1eef259ecca3a415270fb7.jpg",
+			"//storage.boludabolu.com/2021/12/30/28746-abfa94584d4dca6d678fa3d4ba060ebc.jpg",
+			"//storage.boludabolu.com/2021/12/30/28745-d5035d831ea6ff1cdd6aac1f75623901.jpg",
+			"//storage.boludabolu.com/2021/12/30/28744-5340b610b417bc1420250e4b63643761.jpg",
+			"//storage.boludabolu.com/2021/12/30/28743-427e3c9989f6bd62beaddf910bfe23e7.jpg",
+			"//storage.boludabolu.com/2021/12/30/28742-131d5486597887317deb780085b8e42e.jpg",
+			"//storage.boludabolu.com/2021/12/30/28741-ebd1136cb9405574b6a829c3340d2d3f.jpg",
+			"//storage.boludabolu.com/2021/12/30/28740-ebd1136cb9405574b6a829c3340d2d3f.jpg",
+			"//storage.boludabolu.com/2021/12/30/2873f-5340b610b417bc1420250e4b63643761.jpg",
+			"//storage.boludabolu.com/2021/12/30/28753-4ae28a6a01f9017ed4904f29ef30f9b8.jpg",
+			"//storage.boludabolu.com/2021/12/30/28752-11af3fb16af402d776c20583b7a85aa7.jpg",
+			"//storage.boludabolu.com/2021/12/30/28751-2c172f2259e41b0e0f8a163fa60911f3.jpg",
+			"//storage.boludabolu.com/2021/12/30/28750-addea54d91c5b38aaad29005495306ea.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874f-a2a71113803e699488769fbe60df73f0.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874e-21abe17277a7f869b379506854586b31.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874d-8460d5d9aa611dd8267d3b6aa4e338db.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874c-3f3cd47081a0294144c044f5c6fa01a3.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874b-e035238d6c66bc1587f0e8d17a8c9700.jpg",
+			"//storage.boludabolu.com/2021/12/30/2874a-66fb0ccc1ee6aae3bc4f3ebf8acfde69.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875d-a6bad868e253175222b8d054a9cdc1fb.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875c-56ae50f5ba0c89ec3715fa98ca111cb7.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875b-d11cd310c077b70a1ebc36d2c151baad.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875a-cab15c96063ea80989218313bf3e1afa.jpg",
+			"//storage.boludabolu.com/2021/12/30/28759-328934a46d7adb53c51d67490291aaa2.jpg",
+			"//storage.boludabolu.com/2021/12/30/28758-c34b81f6c847bcc59f307fb8b0abe27e.jpg",
+			"//storage.boludabolu.com/2021/12/30/28757-569a8fb76184647a405ff10d0a9de4d9.jpg",
+			"//storage.boludabolu.com/2021/12/30/28756-9779d967fa2e9475aaffea7d0ce374cc.jpg",
+			"//storage.boludabolu.com/2021/12/30/28755-d95717123f23e59a364dbbd804afd517.jpg",
+			"//storage.boludabolu.com/2021/12/30/28754-c0a73e6c2311d8957f9334caa8ab774e.jpg",
+			"//storage.boludabolu.com/2021/12/30/28768-879936f956c14fe3acae867ba1b32118.jpg",
+			"//storage.boludabolu.com/2021/12/30/28767-52f1cdc1302b581d12cc563752db6a02.jpg",
+			"//storage.boludabolu.com/2021/12/30/28766-e8935aeed22b9dec32e8e7664a8ca5f0.jpg",
+			"//storage.boludabolu.com/2021/12/30/28765-ddcd15cec0201153700687ba4f771308.jpg",
+			"//storage.boludabolu.com/2021/12/30/28764-f7303f05acd639e961a34de5d6a875ac.jpg",
+			"//storage.boludabolu.com/2021/12/30/28763-2d8fc681d95901d316c5557746c0838b.jpg",
+			"//storage.boludabolu.com/2021/12/30/28762-32957b995d5f1cae373268f28007c3ea.jpg",
+			"//storage.boludabolu.com/2021/12/30/28761-dc0a37cfa3f05e6a5388b60c2e87ef21.jpg",
+			"//storage.boludabolu.com/2021/12/30/28760-a2c79ce513a0c4c110d6af0a8ee639c8.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875f-7a5da8b2fddc5f1f313836dfbac1b165.jpg",
+			"//storage.boludabolu.com/2021/12/30/2875e-5cc2f5dfc23f5680bfdf43b50342f71c.jpg",
+			"//storage.boludabolu.com/2021/12/31/287a3-37034a2fbe5d305a0911c6a336db8a49.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1528899752,
+		"edit": 1528899752
+	},
+	"id_user": null,
+	"slug": "",
+	"method": "image",
+	"html": ""
+},
+{
+	"_id": "5f5e108",
+	"name": "Haber detay sayfası - Üst resim altındaki reklam",
+	"active": 0,
+	"size": "yatay",
+	"mothod": "image",
+	"area": "haber_detay_bottom_topimage",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2019/05/31/20e09-e65ca5731174210f233c42d023a0c8ef.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1536282698,
+		"edit": 1536282698
+	},
+	"id_user": null,
+	"slug": "",
+	"method": "image",
+	"html": ""
+},
+{
+	"_id": "5f5e109",
+	"name": "Ana Sayfa - Sinemalar Üstü yatay reklam",
+	"active": 1,
+	"size": "yatay",
+	"mothod": "image",
+	"area": "index_sinemalar_top",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2018/09/13/1d4ff-fd9794f327ffd2064ae0c9aaca9c00e4.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1536283069,
+		"edit": 1536283069
+	},
+	"id_user": null,
+	"slug": "",
+	"method": "image",
+	"html": ""
+},
+{
+	"_id": "5f5e10a",
+	"name": "Ana Sayfa - Sinemalar Altı yatay reklam ",
+	"active": 0,
+	"size": "yatay",
+	"mothod": "image",
+	"area": "index_sinemalar_bottom",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2018/09/07/1d3cb-1cb55-980x90.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1536283112,
+		"edit": 1536283112
+	},
+	"id_user": null,
+	"slug": "",
+	"method": "image",
+	"html": ""
+},
+{
+	"_id": "5f5e10b",
+	"name": "Ana Sayfa - Haberler Arası (magazin yeri)",
+	"active": 1,
+	"size": "yatay",
+	"mothod": "image",
+	"area": "index_haberler_arasi",
+	"images": {
+		"list": [
+			"//storage.boludabolu.com/2018/09/07/1d3cb-1cb55-980x90.jpg"
+		]
+	},
+	"used": 0,
+	"date": {
+		"register": 1536283396,
+		"edit": 1536283396
+	},
+	"id_user": null,
+	"slug": "",
+	"method": "image",
+	"html": ""
+}]
+
